@@ -1,0 +1,12 @@
+Common Color Codes Used:
+
+White        : #1d6ba2
+Light Gray   : #7b131a4e
+Dark Gray    : #241a37
+Medium Gray  : #555555
+Border Gray  : #cccccc
+
+Green Button : #4CAF50
+Green Hover  : #45a049
+
+Black Shadow : rgba(0, 0, 0, 0.1)
